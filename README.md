@@ -26,6 +26,7 @@ Sorting Algorithms: Rearrange elements in a specific order, like Bubble Sort, In
 Searching Algorithms: Find the position of an element in a collection, such as Linear Search, Binary Search, etc.
 
 Graph Algorithms: Traverse graphs, find paths, and perform operations on them, such as Breadth-First Search (BFS), Depth-First Search (DFS), Dijkstra's algorithm, etc.
+;;
 
 Tree Algorithms: Traverse trees, find nodes, and perform operations on them, such as Depth-First Traversals (Inorder, Preorder, Postorder), Binary Search Tree operations, etc.
 
